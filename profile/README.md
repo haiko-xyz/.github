@@ -6,4 +6,4 @@ Haiko is built on Starknet, a Layer 2 network on Ethereum that enables fast and 
 
 You can learn more about Haiko by reading our [docs](https://docs.haiko.xyz/), or access our public interface at [app.haiko.xyz](https://app.haiko.xyz/).
 
-To join our growing community, follow us on [Twitter](https://twitter.com/haikoxyz) and join our [Discord](https://discord.gg/haiko-xyz).
+To join our growing community, follow us on [Twitter](https://twitter.com/haikoxyz) and join our [Discord](https://discord.gg/fbRwDtRSUY).
