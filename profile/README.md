@@ -1,8 +1,8 @@
 # Haiko
 
-Haiko is an Automated Market Maker (AMM) protocol providing simple access to market making yield through strategies. It also features limit orders, flexible market schemas and other powerful LP features.
+Haiko is an Intent-based Automated Market Maker (AMM) protocol enabling simple, expressive liquidity provision with intents. It features programmable LP strategies, limit orders, other powerful features.
 
-Haiko is built on Starknet, a Layer 2 network on Ethereum that enables fast and gas efficient on-chain liquidity provision.
+Haiko is powered by Starknet, an Ethereum-based Layer 2 (L2) network that enables cheap, cost-efficient and provable on-chain execution of complex strategies.
 
 You can learn more about Haiko by reading our [docs](https://docs.haiko.xyz/), or access our public interface at [app.haiko.xyz](https://app.haiko.xyz/).
 
